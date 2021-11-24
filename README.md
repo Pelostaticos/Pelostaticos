@@ -59,6 +59,11 @@ CONFIGURACIÓN: ¿Qué datos me pide las primera vez?
 + Dirección URL para testear funcionamiento del servidor DNS local.               (Si utiliza una Raspberry Pi normal ponga su IP principal)
 + Su usuario de trabajo local.                                                    (Su usuario en el equipo local de trabajo)
 
+DNS>LOCAL: ¿Para qué sirve esta función?
+
+Me permite reiniciar el servicio "systemd-resolved" en mi equipo Linux, para que puedan detectar la IP del servidor PiServer y su DNS. De esta forma, puedo tener
+acceso a todos los dominios y subdominios registrados para las web en WordPres que estoy implementando.
+
 INSTRUCIONES: ¿Cómo utilizo este script?
 
   + 0º) Descargue y descomprima el fichero ZIP desde la opción "CODE" del menú superior.
