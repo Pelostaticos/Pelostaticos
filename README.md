@@ -72,7 +72,7 @@ OBSERVACIONES: Cosas a tener en cuenta.
 
   + El script hace uso del terminal "xfce4-terminal" para abrir los módulos de apoyos en pestañas adicionales.
   + Si desea modificar la configuración de script, abra con su editor de texto el fichero piserver-pc.conf
-  + Si tras editar su fichero de configuración la aplicación deja de funcionar, borrelo y vuelva a insertar los datos de configuración.
+  + Si tras editar su fichero de configuración la aplicación deja de funcionar, borrelo y vuelva a insertar los datos de configuración cuando se lo pida.
 
 <!---
 Pelostaticos/Pelostaticos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
