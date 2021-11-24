@@ -61,7 +61,18 @@ CONFIGURACIÓN: ¿Qué datos me pide las primera vez?
 
 INSTRUCIONES: ¿Cómo utilizo este script?
 
-  + 0º) Descar
+  + 0º) Descargue y descomprima el fichero ZIP desde la opción "CODE" del menú superior.
+  + 1º) Abra el directorio que contiene los ficheros. Ejemplo: piserver-main
+  + 2º) Abra un terminal en dicho directorio y ejecute: (sudo) chmod +x *.sh para otorgarle permisos de ejecución.
+  + 3º) Ejecute el fichero piserver-pc.sh haciendo doble clic sobre el mismo.
+  + 4º) Inserte los datos de configuración que se le solicita la primera vez que lo ejecuta.
+  + 5º) Listo! Espero que lo disfrute.
+
+OBSERVACIONES: Cosas a tener en cuenta.
+
+  + El script hace uso del terminal "xfce4-terminal" para abrir los módulos de apoyos en pestañas adicionales.
+  + Si desea modificar la configuración de script, abra con su editor de texto el fichero piserver-pc.conf
+  + Si tras editar su fichero de configuración la aplicación deja de funcionar, borrelo y vuelva a insertar los datos de configuración.
 
 <!---
 Pelostaticos/Pelostaticos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
