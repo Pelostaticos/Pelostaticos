@@ -4,7 +4,7 @@ ME PRESENTO: Quién soy y un poco sobre mí.
 - 👀 I’m interested in technologies and programming
 - 🌱 I’m currently learning about WordPress and web servers on Raspberry Pi
 - 💞️ I’m looking to collaborate on technologies and programming projects
-- 📫 How to reach me on sergio.garciabutron@bitgarcia.es
+- 📫 How to reach me on info@bitgarcia.es
 
 EL SCRIPT CLIENTE PARA GESTIÓN DE PISERVER EN PC: ¿Qué módulos lo compone?
 
